@@ -59,31 +59,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Garvit1908/TalkFlow">TalkFlow 💬</a></h3>
-      <p>Real-time communication suite built using <strong>WebRTC</strong> and <strong>Socket.IO</strong>.</p>
+      <h3 align="center"><a href="https://github.com/Garvit1908/chatap">TalkFlow 💬</a></h3>
+      <p>Real-time messaging & WebRTC video calling platform [<a href="https://chatap-six.vercel.app/">Live Demo</a>].</p>
       <ul>
-        <li>Peer-to-peer real-time video streaming & instant messaging</li>
-        <li>Secure authentication using JSON Web Tokens (JWT)</li>
-        <li>Clean modular architecture with robust error handling</li>
+        <li>Peer-to-peer WebRTC video calls with STUN fallback & low-latency messaging</li>
+        <li>Built-in AI chatbot assistant (TalkBot) powered by OpenRouter API</li>
+        <li>OTP verification with 5-minute auto-expiry via MongoDB TTL indexes</li>
       </ul>
       <p align="center">
         <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>WebRTC</code> • <code>MongoDB</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Garvit1908/Taskify">Taskify 📋</a></h3>
-      <p>Multi-tenant task management platform engineered for team collaboration.</p>
+      <h3 align="center"><a href="https://github.com/Garvit1908/mediconnect">MediConnect 🩺</a></h3>
+      <p>Full-stack telehealth platform & appointment booking suite [<a href="https://mediconnecthealth.me">Live Demo</a>].</p>
       <ul>
-        <li>Role-based access control (RBAC) & optimized data pipelines</li>
-        <li>MongoDB query indexing for fast data retrieval</li>
-        <li>State management via Redux Toolkit and responsive Tailwind UI</li>
+        <li>Role-based workflows with peer-to-peer WebRTC video consultations</li>
+        <li>Conflict-free slot booking backed by atomic database constraints</li>
+        <li>Integrated Razorpay payments, Cloudinary storage & Resend emails</li>
       </ul>
       <p align="center">
-        <code>MERN Stack</code> • <code>Redux Toolkit</code> • <code>Tailwind CSS</code> • <code>REST APIs</code>
+        <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>WebRTC</code> • <code>Razorpay</code>
       </p>
     </td>
   </tr>
 </table>
-
----
-
