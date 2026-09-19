@@ -27,8 +27,8 @@
 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -64,10 +64,10 @@
       <ul>
         <li>Peer-to-peer WebRTC video calls with STUN fallback & low-latency messaging</li>
         <li>Built-in AI chatbot assistant (TalkBot) powered by OpenRouter API</li>
-        <li>OTP verification with 5-minute auto-expiry via MongoDB TTL indexes</li>
+        <li>Redis-powered session management & real-time socket state caching</li>
       </ul>
       <p align="center">
-        <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>WebRTC</code> • <code>MongoDB</code>
+        <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>Redis</code> • <code>MongoDB</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -76,10 +76,10 @@
       <ul>
         <li>Role-based workflows with peer-to-peer WebRTC video consultations</li>
         <li>Conflict-free slot booking backed by atomic database constraints</li>
-        <li>Integrated Razorpay payments, Cloudinary storage & Resend emails</li>
+        <li>Optimized API response times and fast caching layer using Redis</li>
       </ul>
       <p align="center">
-        <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>WebRTC</code> • <code>Razorpay</code>
+        <code>React.js</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>Redis</code> • <code>Razorpay</code>
       </p>
     </td>
   </tr>
